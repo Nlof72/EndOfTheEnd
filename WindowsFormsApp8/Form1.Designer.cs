@@ -209,9 +209,9 @@ namespace WindowsFormsApp8
             this.label5.AutoSize = true;
             this.label5.Location = new System.Drawing.Point(35, 349);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(46, 17);
+            this.label5.Size = new System.Drawing.Size(136, 17);
             this.label5.TabIndex = 11;
-            this.label5.Text = "label5";
+            this.label5.Text = "NumersOfOperators";
             // 
             // Form1
             // 
